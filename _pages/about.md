@@ -14,7 +14,8 @@ Previously, I worked at [Immunai](https://www.immunai.com/) as a [research](http
 
 News
 ======
-- October 2023 : I will be presenting a poster at the [Extending Inferences to a New Target Population](https://icerm.brown.edu/events/htw-23-eintp/) workshop at ICERM, Brown University, on November 17-19.
+- December 2023 : Our critical review of benchmarks for assessing causal reasoning in large language models has been accepted for an oral presentation at the ["Are Large Language Models Simply Causal Parrots?"](https://llmcp.cause-lab.net/llmcp) workshop at AAAI 2024. See you in Vancouver!
+- October 2023 : I will be attending the [Extending Inferences to a New Target Population](https://icerm.brown.edu/events/htw-23-eintp/) workshop at ICERM, Brown University, on November 17-19.
 - October 2023 : our latest work on learning representations for balancing weights has been accepted to the [causal representation learning workshop](https://crl-workshop.github.io/) at NeurIPS 2023! The manuscript is to be uploaded after incorporating feedback from reviewers and other people.
 - October 2023 : my J-1 visa application has been approved! I will be visiting [Avi Feller](https://www.avifeller.com/) in UC Berkeley from January to May 2024.
 
