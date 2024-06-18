@@ -14,7 +14,7 @@ Previously, I worked at [Immunai](https://www.immunai.com/) as a [research](http
 
 News
 ======
-- January-May 2024 : I have been visiting [Avi Feller](https://www.avifeller.com/) at UC Berkeley. Meanwhile, our paper on learning representations for balancing weights has been accepted to both UAI 2024 as a poster and ACIC 2024 as an oral presentation. Stay tuned for the final manuscript.
+- January-May 2024 : I have been visiting [Avi Feller](https://www.avifeller.com/) at UC Berkeley. Meanwhile, our paper on learning representations for balancing weights has been accepted to both UAI 2024 as a poster and ACIC 2024 as an oral presentation (EDIT : also got a $500 travel scholarship for this conference!). Stay tuned for the final manuscript.
 - December 2023 : Our critical review of benchmarks for assessing causal reasoning in large language models has been accepted for an oral presentation at the ["Are Large Language Models Simply Causal Parrots?"](https://llmcp.cause-lab.net/llmcp) workshop at AAAI 2024. See you in Vancouver!
 - October 2023 : I will be attending the [Extending Inferences to a New Target Population](https://icerm.brown.edu/events/htw-23-eintp/) workshop at ICERM, Brown University, on November 17-19.
 - October 2023 : our latest work on learning representations for balancing weights has been accepted to the [causal representation learning workshop](https://crl-workshop.github.io/) at NeurIPS 2023! The manuscript is to be uploaded after incorporating feedback from reviewers and other people.
