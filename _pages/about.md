@@ -16,7 +16,7 @@ Previously, I worked at [Immunai](https://www.immunai.com/) as a [research](http
 
 News
 ======
-- July-November 2024 : I am currently interning at ServiceNow Research with [Alexandre Drouin](https://www.alexdrouin.com/) and Mila with [Ioannis Mitliagkas](https://mitliagkas.github.io/).
+- July-November 2024 : I am currently interning at ServiceNow Research with [Alexandre Drouin](https://www.alexdrouin.com/) and Mila with [Ioannis Mitliagkas](https://mitliagkas.github.io/), working on causal discovery and large language models. Feel free to ping me if you want to chat in Montréal!
 - January-May 2024 : I have been visiting [Avi Feller](https://www.avifeller.com/) at UC Berkeley. Meanwhile, our [paper](https://openreview.net/pdf?id=KNgBCZXJkY) on learning representations for balancing weights has been accepted to both UAI 2024 as a poster and ACIC 2024 as an oral presentation. I was also awarded a $500 travel scholarship for this conference.
 - December 2023 : Our critical review of benchmarks for assessing causal reasoning in large language models has been accepted for an oral presentation at the ["Are Large Language Models Simply Causal Parrots?"](https://llmcp.cause-lab.net/llmcp) workshop at AAAI 2024. See you in Vancouver!
 - October 2023 : I will be attending the [Extending Inferences to a New Target Population](https://icerm.brown.edu/events/htw-23-eintp/) workshop at ICERM, Brown University, on November 17-19.
