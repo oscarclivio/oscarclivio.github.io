@@ -16,6 +16,7 @@ Previously, I worked at [Immunai](https://www.immunai.com/) as a [research](http
 
 News
 ======
+- October 2025: I have received a [Top Reviewer Award](https://neurips.cc/Conferences/2025/ProgramCommittee) at NeurIPS 2025!
 - July 2025: I have handed my PhD thesis. 
 - February 2025 : Our paper on [integrating LLM knowledge into causal discovery algorithms](https://arxiv.org/pdf/2502.13132) has been accepted to the [Reasoning and Planning for Large Language Models at ICLR 2025](https://workshop-llm-reasoning-planning.github.io/).
 - July-November 2024 : I have been interning at ServiceNow Research with [Alexandre Drouin](https://www.alexdrouin.com/) and Mila with [Ioannis Mitliagkas](https://mitliagkas.github.io/), working on causal discovery and large language models.
