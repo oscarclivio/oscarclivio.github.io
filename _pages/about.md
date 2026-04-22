@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD candidate in the [StatML CDT](https://statml.io/) programme, under the supervision of [Chris Holmes](https://www.stats.ox.ac.uk/people/chris-holmes) in the Department of Statistics at the University of Oxford, and with generous funding from [Novo Nordisk](https://www.novonordisk.com/). My research interests revolve around causal inference, especially in high-dimensional datasets. This includes learning suitable representations for [matching](https://proceedings.mlr.press/v151/clivio22a.html), [weighting](https://openreview.net/pdf?id=KNgBCZXJkY), and [overlap](https://openreview.net/pdf?id=I7Uibi1AMt). I have also done work exploring [links between causal treatment effects and Shapley values](https://proceedings.mlr.press/v202/ter-minassian23a.html), [evaluating causal reasoning in large language models (LLMs)](https://openreview.net/pdf?id=mRwgczYZFJ) and [integrating LLM knowledge into causal discovery algorithms](https://arxiv.org/pdf/2502.13132).
+I have just completed a PhD in the [StatML CDT](https://statml.io/) programme, under the supervision of [Chris Holmes](https://www.stats.ox.ac.uk/people/chris-holmes) in the Department of Statistics at the University of Oxford, with generous funding from [Novo Nordisk](https://www.novonordisk.com/). My research interests revolve around causal inference, especially in high-dimensional datasets. This includes learning suitable representations for [matching](https://arxiv.org/abs/2203.00554), [weighting](https://arxiv.org/abs/2409.16407), and [overlap](https://arxiv.org/abs/2604.00811). I have also done work exploring [links between causal treatment effects and Shapley values](https://proceedings.mlr.press/v202/ter-minassian23a.html), [evaluating benchmarks for causal reasoning in large language models (LLMs)](https://openreview.net/pdf?id=mRwgczYZFJ), and [integrating LLM knowledge into causal discovery algorithms](https://arxiv.org/pdf/2502.13132).
 
 Further, in the summer of 2022, I interned in the Safety and Insurance team at Uber in San Francisco. In the spring of 2024, I visited [Avi Feller](https://www.avifeller.com/) at UC Berkeley. In the summer and fall of 2024, I interned at ServiceNow Research and Mila in Montréal.
 
@@ -16,6 +16,7 @@ Previously, I worked at [Immunai](https://www.immunai.com/) as a [research](http
 
 News
 ======
+- January-April 2026: Our paper on [learning representations to address poor overlap](https://arxiv.org/abs/2604.00811) has been accepted to AISTATS 2026. I have also completed my PhD, passing with minor corrections.
 - October 2025: I have received a [Top Reviewer Award](https://neurips.cc/Conferences/2025/ProgramCommittee) at NeurIPS 2025!
 - July 2025: I have handed my PhD thesis. 
 - February 2025 : Our paper on [integrating LLM knowledge into causal discovery algorithms](https://arxiv.org/pdf/2502.13132) has been accepted to the [Reasoning and Planning for Large Language Models at ICLR 2025](https://workshop-llm-reasoning-planning.github.io/).
