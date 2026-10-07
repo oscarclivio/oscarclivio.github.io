@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Oscar Clivio"
 title_separator          : "-"
 name                     : &name "Oscar Clivio"
-description              : &description "PhD Candidate in Statistics & Machine Learning, University of Oxford"
+description              : &description "Scientist II, Uber"
 url                      : https://oscarclivio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "oscarcclivio/oscarclivio.github.io"
+repository               : "oscar_clivio/oscarclivio.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Oscar Clivio"
   avatar           : "bus.jpg"
-  bio              : "PhD Candidate in Statistics & Machine Learning, University of Oxford"
-  location         : "Oxford, UK"
+  bio              : "Scientist II, Uber"
+  location         : "Toronto, ON"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8U_dw6UAAAAJ&hl=en"
-  email            : "oscar.clivio@stats.ox.ac.uk"
+  email            : "oclivio@live.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
